@@ -15,5 +15,7 @@ go build quickshare.go
 
 ## Download and run Linux x64 binary:
 ```
-curl https://github.com/sebastiansterk/quickshare/releases/download/0.1.0/quickshare_0.1.0_linux_x86_64 -o quickshare; chmod o+x quickshare; mv quickshare /usr/local/bin/
+curl https://github.com/sebastiansterk/quickshare/releases/download/0.1.0/quickshare_0.1.0_linux_x86_64 -o quickshare; 
+chmod o+x quickshare; 
+mv quickshare /usr/local/bin/;
 ```
