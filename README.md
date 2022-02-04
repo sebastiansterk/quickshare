@@ -1,5 +1,5 @@
 # Quickshare
-Quickly upload and share text-based snippets. Quickshare is going to upload text-based files (ASCII characters) to https://hastebin.wiuwiu.de and return the link to the uploaded snippet.
+Quickly upload and share text-based snippets. Quickshare uploads text-based files (ASCII characters) to https://hastebin.wiuwiu.de and returns the link to the uploaded snippet.
 
 ## Usage
 ```
