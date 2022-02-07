@@ -20,7 +20,7 @@ func main() {
   url := destination+"/documents"
 
   if(len(os.Args)!=2) {
-    fmt.Println("Usage: publish path/to/file")
+    fmt.Println("Usage: quickshare path/to/file")
     os.Exit(1)
   }
 
